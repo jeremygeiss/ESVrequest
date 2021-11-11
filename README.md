@@ -1,2 +1,2 @@
 # ESVrequest
-request ESV passages from the API
+Use the API to request ESV bible passages for personal study. Just insert your API key.
