@@ -4,7 +4,7 @@ import sys
 import requests
 
 
-API_KEY = '6d222046d13872627d6653c6325934474dfbd46f'
+API_KEY = '<YOUR API KEY>'
 API_URL = 'https://api.esv.org/v3/passage/text/'
 
 
